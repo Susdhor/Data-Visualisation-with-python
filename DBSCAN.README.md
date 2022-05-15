@@ -1,4 +1,4 @@
-# Describe the DBSCAN algorithm and clustering method with the help of my best teacher Eva Hegner and following the resources______ and Kaggle website.
+# Describe the DBSCAN algorithm and clustering method with the help of following resources______ and Kaggle website.
 
 ""https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html""
 ""https://towardsdatascience.com/explaining-dbscan-clustering-18eaf5c83b31""
