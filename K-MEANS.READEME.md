@@ -1,4 +1,4 @@
-# Describe the K-means Algorithm and klusterings method with the help of my best teacher Eva Hegner and following the resources________ Kaggle website.
+# Describe the K-means Algorithm and klusterings method with the help of following resources and________ Kaggle website.
 
 "https://towardsdatascience.com/unsupervised-learning-k-means-clustering-6fd72393573c"
 
